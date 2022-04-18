@@ -1,0 +1,17 @@
+{
+    "name": "spe-jogja/test-midtrans",
+    "autoload": {
+        "psr-4": {
+            "SpeJogja\\TestMidtrans\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hanif",
+            "email": "hanif.hakim@spesolution.com"
+        }
+    ],
+    "require": {
+        "midtrans/midtrans-php": "^2.5"
+    }
+}

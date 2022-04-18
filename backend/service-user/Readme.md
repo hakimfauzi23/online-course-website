@@ -1,0 +1,4 @@
+- Migrate    : npx sequelize-cli db:migrate
+- Seeding    : npx sequelize-cli db:seed:all
+- Run        : nodemon bin/www (Must install Nodemon First)
+- Local Port : 5000

@@ -1,0 +1,3 @@
+- Migrate    : npx sequelize-cli db:migrate
+- Run        : nodemon bin/www (Must install Nodemon First)
+- Local Port : 8080
